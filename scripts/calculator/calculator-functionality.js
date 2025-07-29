@@ -29,6 +29,7 @@ let currentFontSize = defaultFontSize;
 
 /**
  * Счетчик уменьшения шрифта.
+ 
  * @type {number}
  */
 let shrinkCount = 0;
